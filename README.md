@@ -5,3 +5,8 @@
     Criado por: José Nogueira (Jos'Nog)
     Fácil de usar,
     Rápido e expansivo.
+
+Tecnologias:
+    Reconhecimento de voz;
+    Síntise de voz;
+    Inteligência Artificial.
